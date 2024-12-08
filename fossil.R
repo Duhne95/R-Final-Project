@@ -138,18 +138,4 @@ ggplotly(gg) %>%
 
 ```
 
-## Conclusions
-There is a clear increase in the CO2 consumption emissions from the years 2000 to 2010, specifically of the World and Asia regions, you can observe that these areas continue to show increasing emissions until 2019 at which point there is a notable decrease in both.
-
-In contrast, Oceania, Middle East, Africa, South America, and Central America have the lowest emissions with a slight increase in CO2 between 2002 and 2020.
-
-North America and Europe have fairly stable emissions with the decade from 2010 to 2020 showing a slight decrease in their emissions.
-
-Overall in can be affirmed that whilst the majority of the regions experienced an increased from 1990 to 2019, there is a  worldwide decrease from 2019 to 2020.
-
-This can be attributed to the population's awareness and actions that there are consequences to our abusive usage of combustion fuels.
-
-## Reference
-Pierre Friedlingstein, Michael O’Sullivan, Matthew W. Jones, Robbie M. Andrew, Luke Gregor, Judith Hauck, Corinne Le Quéré, Ingrid T. Luijkx, Are Olsen, Glen P. Peters, Wouter Peters, Julia Pongratz, Clemens Schwingshackl, Stephen Sitch, Josep G. Canadell, Philippe Ciais, Rob B. Jackson,Simone Alin, Ramdane Alkama, Almut Arneth, Vivek K. Arora, Nicholas R. Bates, Meike Becker, Nicolas Bellouin, Henry C. Bittig, Laurent Bopp, Frédéric Chevallier, Louise P. Chini, Margot Cronin, Wiley Evans, Stefanie Falk, Richard A. Feely, Thomas Gasser, Marion Gehlen, Thanos Gkritzalis, Lucas Gloege, Giacomo Grassi, Nicolas Gruber, Özgür Gürses, Ian Harris, Matthew Hefner, Richard A. Houghton, George C. Hurtt, Yosuke Iida, Tatiana Ilyina, Atul K. Jain, Annika Jersild, Koji Kadono, Etsushi Kato, Daniel Kennedy, Kees Klein Goldewijk, Jürgen Knauer, Jan Ivar Korsbakken, Peter Landschützer, Nathalie Lefèvre, Keith Lindsay, Junjie Liu, Zhu Liu, Gregg Marland, Nicolas Mayot, Matthew J. McGrath, Nicolas Metzl, Natalie M. Monacci, David R. Munro, Shin-Ichiro Nakaoka, Yosuke Niwa, Kevin O´Brien, Tsuneo Ono, Paul I. Palmer, Naiqing Pan, Denis Pierrot, Katie Pocock, Benjamin Poulter, Laure Resplandy, Eddy Robertson, Christian Rödenbeck, Carmen Rodriguez, Thais M. Rosan, Jörg Schwinger, Roland Séférian, Jamie D. Shutler, Ingunn Skjelvan, Tobias Steinhoff, Qing Sun, Adrienne J. Sutton, Colm Sweeney, Shintaro Takao, Toste Tanhua, Pieter P. Tans, Xiangjun Tian, Hanqin Tian, Bronte Tilbrook, Hiroyuki Tsujino, Francesco Tubiello, Guido R. van der Werf, Anthony P. Walker, Rik Wanninkhof, Chris Whitehead, Anna Wranne, Rebecca Wright, Wenping Yuan, Chao Yue, Xu Yue, Sönke Zaehle, Jiye Zeng, Bo Zheng. (2022). Global Carbon Budget. Integrated Carbon Observation System. Sci. Data. https://doi.org/xxxxx
-
-Peters, G., Minx, J., Weber, C., and Edenhofer, O. (2011). Growth in emission transfers via international trade from 1990 to 2008. Proceedings of the National Academy of Sciences. 108, 8903-8908. http://www.pnas.org/content/108/21/8903.abstract
+#The end result should be an interactive graph that displays the continentsand their respective fossil emissions on a thirty-year period.
